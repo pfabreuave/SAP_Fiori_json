@@ -100,10 +100,10 @@
                                     </cells>
                                 </ColumnListItem>
                             </items>                         
-                    </Table>
-                </IconTabFilter>
-            </items>
-        </IconTabBar>
-    </content>
-</Page>
+                        </Table>
+                    </IconTabFilter>
+                </items>
+            </IconTabBar>
+        </content>
+    </Page>
 </mvc:View>
